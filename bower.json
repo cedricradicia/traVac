@@ -1,0 +1,30 @@
+{
+  "name": "traVac",
+  "version": "0.1",
+  "authors": [
+    "Radicia Cédric <radicia.cedric@gmail.com>"
+  ],
+  "description": "Sample",
+  "main": "/",
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-messages": "~1.4.8",
+    "angular-cookies": "~1.4.8",
+    "angular-sanitize": "~1.4.8",
+    "angular-touch": "~1.4.8",
+    "angular-mocks": "~1.4.8",
+    "angular-ui-router": "0.2.15",
+    "angular-ui-date": "0.0.11",
+    "angular-strap": "2.3.6",
+    "angular-translate": "2.8.1",
+    "angular-translate-loader-url": "2.8.1",
+    "bootstrap": "3.3.6",
+    "leaflet": "0.7.7"
+  },
+  "license": "None",
+  "ignore": [
+    "**/.*"
+  ]
+}
