@@ -10,7 +10,7 @@ function (
     {
         $stateProvider.state('home', {
             url: "/home",
-            templateUrl: "../js/templates/home.html"
+            templateUrl: "../templates/home.html"
         });
 
         $urlRouterProvider.otherwise('/home');
