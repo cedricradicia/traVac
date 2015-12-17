@@ -1,8 +1,0 @@
-{
-	"name": "traVac",
-	"description": "A new project",
-	"version": "0.0.1",
-	"engine": {
-		"node": "0.10.25"
-	}
-}
