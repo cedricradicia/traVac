@@ -19,3 +19,7 @@ insecure                # Allow all DB writes from clients (for prototyping)
 angular
 angularui:angular-ui-router
 angular:angular-route
+grove:less
+mquandalle:bower
+twbs:bootstrap
+underscore

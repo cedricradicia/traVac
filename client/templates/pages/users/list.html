@@ -1,0 +1,10 @@
+<div>
+	<div ng-controller="UserListController">
+		<div ng-repeat="user in list" ng-if="list.length > 0">
+			{{user.name}}
+			<a ui-sref="user.edit({ id: user._id })">{{user.name}}</a>
+			<button ng-click="remove(user)">Delete</button>
+		</div>
+		<a ui-sref="user.create">Create</a>
+	</div>
+</div>
